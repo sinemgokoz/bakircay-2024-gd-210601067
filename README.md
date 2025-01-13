@@ -60,6 +60,8 @@ MidTerm Örnek kullanım videosunun linki: https://youtu.be/r_6vL-c0rzY?si=XsW6I
 
 WebGL: https://sinemgokoz.github.io/bakircay-2024-gd-210601067/
 
+Oyun Önizlemesi
+
 ![Ekran görüntüsü 2025-01-14 001648](https://github.com/user-attachments/assets/248826c5-ee33-46c8-aa56-300c0fe12641)
 
 
