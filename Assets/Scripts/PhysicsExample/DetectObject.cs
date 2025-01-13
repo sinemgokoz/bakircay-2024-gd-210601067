@@ -43,7 +43,7 @@ public class DetectObject : MonoBehaviour
     {
         if (_rigidbodyToJump != null)
         {
-            _totalForce += new Vector3(data.deltaPosition.x, 2f, data.deltaPosition.y) * Time.deltaTime;
+            _totalForce += new Vector3(data.deltaPosition.x, 1f, data.deltaPosition.y) * Time.deltaTime;
         }
     }
 
